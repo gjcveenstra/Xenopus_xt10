@@ -28,11 +28,11 @@ R CMD INSTALL "BSgenome.Xtropicalis.Xenbase.xt10_0.1.tar.gz"
 #Only once, at Linux prompt (specify path to file as necessary)  
 tar -xvf org.Xtropicalis.eg.db.tar.gz  
   
-#Only once, in R (specify path to file as necessary) 
-install.packages("org.Xtropicalis.eg.db", repos=NULL)    
+#Only once, in R (specify path to file as necessary)  
+install.packages("org.Xtropicalis.eg.db", repos=NULL)  
   
 ## Use in R   
-#### these bioconductor annotation files have been used in ArchR package, shown as example
+#these bioconductor annotation files have been used in ArchR package, shown as example
 R  
 library(ArchR)  
 set.seed(1)  
