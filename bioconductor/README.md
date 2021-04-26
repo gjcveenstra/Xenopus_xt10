@@ -20,6 +20,9 @@ release_date: 2020-09-14
 release_name: xt10_0  
 source_url: http://www.veenstralab.nl/resources.htm  
 biocViews: AnnotationData, Genetics, BSgenome, Xenopus tropicalis  
+
+## Download  
+Visit http://www.veenstralab.nl/resources.htm
   
 ## Install
 #Only once, at Linux prompt (specify path to file as necessary):  
