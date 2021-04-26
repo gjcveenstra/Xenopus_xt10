@@ -17,3 +17,10 @@ release_date: 2020-09-14
 release_name: xt10_0
 source_url: http://www.veenstralab.nl/resources.htm
 biocViews: AnnotationData, Genetics, BSgenome, Xenopus tropicalis
+
+## Install
+Only once, at Linux prompt: R CMD INSTALL "/home/gertjanv/genomes/xt10_0/bioconductor/BSgenome.Xtropicalis.Xenbase.xt10_0.1.tar.gz"
+## Use, within R
+library(BSgenome.Xtropicalis.Xenbase.xt10)
+genomeAnnotation <- createGenomeAnnotation(genome = BSgenome.Xtropicalis.Xenbase.xt10)
+
