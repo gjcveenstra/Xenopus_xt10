@@ -22,7 +22,8 @@ source_url: http://www.veenstralab.nl/resources.htm
 biocViews: AnnotationData, Genetics, BSgenome, Xenopus tropicalis  
 
 ## Download  
-Visit http://www.veenstralab.nl/resources.htm
+Visit http://www.veenstralab.nl/resources.htm  
+http://www.veenstralab.nl/resources_xt10.php  
   
 ## Install
 #Only once, at Linux prompt (specify path to file as necessary):  
