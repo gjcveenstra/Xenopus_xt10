@@ -32,7 +32,7 @@ tar -xvf org.Xtropicalis.eg.db.tar.gz
 install.packages("org.Xtropicalis.eg.db", repos=NULL)  
   
 ## Use in R   
-#these bioconductor annotation files have been used in ArchR package, shown as example
+#these bioconductor annotation files have been used in ArchR package, shown as example  
 R  
 library(ArchR)  
 set.seed(1)  
