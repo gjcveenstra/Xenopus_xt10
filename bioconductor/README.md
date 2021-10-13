@@ -1,5 +1,8 @@
 ## Description  
-Bioconductor provides genome and gene annotation tools for use in downstream applications. There are three types of bioconductor resources that are necessary for use in combination downstream tools: genome (BSgenome.Xtropicalis.Xenbase.xt10), a transcript database (TxDb.Xtropicalis.Xenbase.xt10), and an organism database(org.Xtropicalis.eg.db). The bioconductor files provided here have been used for analysis of 10x single cell ATAC-seq data with ArchR and the xt10 genome, other packages or applications have not been tested. These files are made available AS-IS   
+Bioconductor provides genome and gene annotation tools for use in downstream applications. There are three types of bioconductor resources that are necessary for use in combination downstream tools: genome (BSgenome.Xtropicalis.Xenbase.xt10), a transcript database (TxDb.Xtropicalis.Xenbase.xt10), and an organism database(org.Xtropicalis.eg.db). The bioconductor files provided here have been used for analysis of 10x single cell ATAC-seq data with ArchR and the xt10 genome, other packages or applications have not been tested. These files are made available AS-IS 
+
+These files have been used in:
+Bright A.R., S. van Genesen, Q. Li, A. Grasso, S. Fröhlich, M. van der Sande, S.J. van Heeringen, G.J.C. Veenstra. 2021. Combinatorial transcription factor activities on open chromatin induce embryonic heterogeneity in vertebrates. EMBO J, e104913. https://doi.org/10.15252/embj.2020104913
 
 ## Description BSgenome
 Package: BSgenome.Xtropicalis.Xenbase.xt10  
